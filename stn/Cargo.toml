@@ -1,0 +1,8 @@
+[package]
+name = "stn"
+version = "1.0.0"
+authors = ["Nikan Radan (SmushyTaco) <smushytaco@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+unicase = "2.5.1"
