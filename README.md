@@ -61,7 +61,7 @@ SaturnCLI commands:
 * ```stn remove [package(s)]``` - Removes specified package(s)
 * ```stn add-key <filepath>``` - Adds a key to the list of trusted keys
 * ```stn edit-sources``` - Opens the APT repo editor
-* ```stn add-repositories <repo(s)>``` - Adds new repo(s)
+* ```stn add-repos [--flag(s)] <repo(s)>``` - Adds new repo(s)
 * ```stn add-source``` - Adds a new repository
 * ```stn autoremove``` - Removes unneeded packages (orphans)
 * ```stn update``` - Updates the repository lists
