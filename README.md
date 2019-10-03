@@ -23,7 +23,7 @@ Without [APT](https://launchpad.net/ubuntu/+source/apt/) (Linux) it's useless th
 * cd into the stn directory (You can easily do so by opening the terminal typing ```cd``` and dragging and dropping the stn folder into the terminal window and clicking the enter key).
 * Run ```cargo build --release``` in the terminal.
 * Make sure your in the stn directory and from there go into the target directory and then go into the release directory (stn --> target --> release).
-* You should see a executable file named "stn" without the "".
+* You should see a executable file named ```stn```.
 * Congratulations! You have successfully built SaturnCLI (stn)!
 
 ## Installing
