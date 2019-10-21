@@ -30,7 +30,7 @@ Without [APT](https://launchpad.net/ubuntu/+source/apt/) (Linux) it's useless th
 ### Linux and macOS
 * If you want to build from source [click here](#Building). If you just want a precompiled binary [click here](https://github.com/realSmushyTaco/SaturnCLI/releases)
 * Navigate to ```/usr/local/bin/```.
-* Drag the stn binary you got from compiling saturn in the window that just popped up.
+* Drag the stn binary you got from compiling (or downloading) saturn in the window that just popped up.
 * Congratulations! You have successfully installed SaturnCLI (stn)! Without [APT](https://launchpad.net/ubuntu/+source/apt/) (Linux) it's useless though so be sure to install apt if you don't have it!
 * Whenever a new SaturnCLI update is out just [rebuild](#Building) or download the latest precompiled binary by [clicking here](https://github.com/realSmushyTaco/SaturnCLI/releases), navigate to ```/usr/local/bin/``` and replace the old ```stn``` binary with the new ```stn``` binary you just rebuilt.
 
